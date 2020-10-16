@@ -1,0 +1,152 @@
+
+
+
+@media only screen and (min-width: 1024px){
+.container-1{
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+
+
+#carousel-1{
+    margin-left: 300px;
+    margin-right: 300px;   
+    height: 500px;
+}
+
+.jumbotron{
+    background-color: black !important;
+}
+
+.jumbotron p{
+    color: white;
+}
+
+.jumbotron h1{
+    color: white;
+}
+
+.card-group2{
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: -400px;
+}
+
+.list-inline{
+    margin-left: -100px;
+}
+
+.navbar-brand
+{
+    position: relative;
+    background: url(assets/img/logo2.png);
+    width: 170px;
+    height: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.footer{
+    margin-top: -400px;
+
+}
+
+.social{
+    font-family: 'Thasadith', sans-serif;
+}
+
+.container4{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.container-13{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+}
+
+@media only screen and (min-width: 320px){
+    .navbar-brand
+    {
+        position: relative;
+        background: url(assets/img/logo2.png);
+        width: 170px;
+        height: 100px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .card-group2{
+    margin-bottom: -420px; 
+}
+
+.jumbotron{
+    background-color: black !important;
+}
+
+.jumbotron p{
+    color: white;
+    font-family: 'Thasadith', sans-serif;
+}
+
+.jumbotron h1{
+    color: white;
+    font-family: 'Thasadith', sans-serif;
+}
+
+.container3{
+    margin-bottom: 25px;
+}
+
+
+
+.social{
+    font-family: 'Thasadith', sans-serif;
+
+}
+
+
+}
+
+@media only screen and (min-width: 768px){
+    .navbar-brand
+{
+    position: relative;
+    background: url(assets/img/logo2.png);
+    width: 170px;
+    height: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+    
+    .jumbotron{
+        background-color: black !important;
+        
+    }
+    
+    .jumbotron p{
+        color: white;
+        font-family: 'Thasadith', sans-serif;
+    }
+    
+    .jumbotron h1{
+        color: white;
+        font-family: 'Thasadith', sans-serif;
+    }
+
+    .social{
+        font-family: 'Thasadith', sans-serif;
+    
+    }
+    
+}
+
+
+
